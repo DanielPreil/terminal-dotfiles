@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Explicitly track specific files in the repository root
+!.gitignore
+!.wezterm.lua
+!.zshrc
+!.p10k.zsh
